@@ -10,7 +10,10 @@
 .jumbotron h1,
 .jumbotron p {
   color: rgb(255, 255, 255);
-  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+.jumbotron p {
+  font-weight: 500;
 }
 .jumbotron .profile {
   width: 200px;
