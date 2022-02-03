@@ -4,7 +4,7 @@
   background-image: url('../img/bg_cd.jpg');
   background-attachment: fixed;
   background-size: cover;
-  background-position: 0 -100px;
+  background-position: -100px -20px;
   overflow: hidden;
 }
 .jumbotron h1,
