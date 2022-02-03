@@ -11,3 +11,4 @@ $(window).scroll(function () {
     transform: 'translate(0px, ' + wScroll / 2 + '%)',
   });
 });
+// Contact
